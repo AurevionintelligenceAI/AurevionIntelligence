@@ -1,0 +1,6 @@
+# robots.txt for https://www.aurevionintelligence.xyz/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.aurevionintelligence.xyz/sitemap.xml
